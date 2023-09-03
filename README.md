@@ -1,2 +1,2 @@
 # HololiveTheme
-HololiveTheme by ClarkKeyton
+HololiveTheme by ClarkKeyton(For VS2022)
