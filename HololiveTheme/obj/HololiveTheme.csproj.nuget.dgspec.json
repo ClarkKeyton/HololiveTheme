@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VirusTest\\source\\repos\\HololiveTheme\\HololiveTheme\\HololiveTheme.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VirusTest\\source\\repos\\HololiveTheme\\HololiveTheme\\HololiveTheme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VirusTest\\source\\repos\\HololiveTheme\\HololiveTheme\\HololiveTheme.csproj",
+        "projectName": "HololiveTheme",
+        "projectPath": "C:\\Users\\VirusTest\\source\\repos\\HololiveTheme\\HololiveTheme\\HololiveTheme.csproj",
+        "packagesPath": "C:\\Users\\VirusTest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VirusTest\\source\\repos\\HololiveTheme\\HololiveTheme\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\SharedPackage\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VirusTest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31709.430, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
